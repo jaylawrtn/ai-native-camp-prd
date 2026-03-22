@@ -25,3 +25,6 @@
 
 *AI Native Camp 2기 — jaylawrtn*
 *작성일: 2026-03-23*
+
+---
+*Submitted: 2026-03-23*
